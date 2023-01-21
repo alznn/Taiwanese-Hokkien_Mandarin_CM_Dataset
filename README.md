@@ -9,7 +9,6 @@ In natural language processing (NLP), code-mixing (CM) is a challenging task, es
 
 ## Full Paper
 [Paper.pdf](https://github.com/alznn/Taiwanese-Hokkien_Mandarin_CM_Dataset/files/10472066/Paper.pdf)
-per
 
 ## Note
 - Articut Taiwanese Tokenizer now availible, please refer to https://github.com/Droidtown/ArticutAPI_Taigi
